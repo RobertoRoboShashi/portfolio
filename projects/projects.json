@@ -1,0 +1,123 @@
+[
+  {
+    "name": "My CV",
+    "desc": "It shows your education, skills, and previous positions or projects you've worked on.",
+    "image": "cv",
+    "category": "basicweb",
+    "links": {
+      "view": "https://shashiyadavcv.netlify.app",
+      "code": "https://github.com/RobertoRoboShashi/"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Portfolio is an online representation of work you have created, as well as your skills and experiences.",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://shashiyadav.netlify.app",
+      "code": "https://github.com/RobertoRoboShashi/"
+    }
+  },
+  {
+    "name": "Link Tree",
+    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
+    "image": "linklist",
+    "category": "basicweb",
+    "links": {
+      "view": "https://shashiyadavlinktree.netlify.app",
+      "code": "https://github.com/RobertoRoboShashi/"
+    }
+
+  },
+  {
+    "name": "Digital Clock",
+    "desc": "Displays live hour, minutes, seconds and milli-seconds. Gradient Changing effect.",
+    "image": "digiclock",
+    "category": "basicweb",
+    "links": {
+      "view": "https://3rsdigiclock.netlify.app",
+      "code": "https://github.com/RobertoRoboShashi/"
+    }
+  },
+  {
+    "name": "Neomorphism Clock",
+    "desc": "Basic Neomorphism Clock With Hour, Min, Sec With Light And Dark Mode. Tilt Effect.",
+    "image": "neoclock",
+    "category": "basicweb",
+    "links": {
+      "view": "https://3rsneoclock.netlify.app",
+      "code": "https://github.com/RobertoRoboShashi/"
+    }
+  },
+  {
+    "name": "Age Calculator",
+    "desc": "Calculates The Age Of The User. Wishes Too On Birthday.",
+    "image": "agecalculator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://3rsagecalculator.netlify.app",
+      "code": "https://github.com/RobertoRoboShashi/"
+    }
+  },
+  {
+    "name": "StopWatch",
+    "desc": "Simple stopwatch with start, stop and reset features.",
+    "image": "stopwatch",
+    "category": "basicweb",
+    "links": {
+      "view": "https://3rsstopwatch.netlify.app",
+      "code": "https://github.com/RobertoRoboShashi/"
+    }
+  },
+  {
+    "name": "Password Generator",
+    "desc": "A Basic Password Generator As Per The User Selected Criteria.",
+    "image": "pwdgen",
+    "category": "basicweb",
+    "links": {
+      "view": "https://3rspwdgen.netlify.app",
+      "code": "https://github.com/RobertoRoboShashi/"
+    }
+  },
+  {
+    "name": "Temperature Converter",
+    "desc": "Temperature converter celsius to kelvin and fahrenhiet live.",
+    "image": "tempconvert",
+    "category": "basicweb",
+    "links": {
+      "view": "https://3rstempconvert.netlify.app",
+      "code": "https://github.com/RobertoRoboShashi/"
+    }
+  },
+  {
+    "name": "project name",
+    "desc": "about project",
+    "image": "webchat",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/RobertoRoboShashi/",
+      "code": "https://github.com/RobertoRoboShashi/"
+    }
+  },
+  {
+    "name": "project name",
+    "desc": "about project",
+    "image": "phppblform",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/RobertoRoboShashi/",
+      "code": "https://github.com/RobertoRoboShashi/"
+    }
+  },
+  {
+    "name": "project name",
+    "desc": "about project",
+    "image": "webviewapp",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/RobertoRoboShashi/",
+      "code": "https://github.com/RobertoRoboShashi/"
+    }
+  }
+]
